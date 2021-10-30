@@ -1,0 +1,32 @@
+/*IMPORTAR FUENTES DESDE LA FUENTE DE GOOGLE*/
+
+@import url('https://fonts.googleapis.com/css2?family=Varela+Round&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Orbitron&display=swap');
+
+/*FUENTES DESCARGADAS*/
+
+@font-face {
+font-family: "Ubuntu";
+src: url("font/Ubuntu.ttf");
+}
+
+@font-face {
+font-family: "Start";
+src: url("font/PressStart.ttf");
+}
+
+@font-face {
+font-family: "Oswald";
+src: url("font/Oswald.ttf");
+}
+
+@font-face {
+font-family: "Roboto";
+src: url("font/Roboto.ttf");
+}
+
+@font-face {
+font-family: "Zen";
+src: url("font/ZenKurenaido.ttf");
+}
