@@ -174,3 +174,9 @@ a{
           height: 600px;
       }
   }
+
+  @media (min-width: 1024px) {
+    .fondo{
+        height: 600px;
+    }
+  }
